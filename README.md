@@ -14,3 +14,5 @@ $ yarn build
 ```
 
 The build output in `dist/bundle.js` is copied into the Pairwise Workspace client application and served to the app for React Native challenges. Cool!
+
+> **Pro Tip:** Don't forget to `/* eslint-disable */` the file!
