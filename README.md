@@ -1,4 +1,4 @@
-# Pairwise React Native Web Library
+# Pairwise React Native Web Library Bundler
 
 A bundled version of `react-native-web` ready to roll in the Pairwise Workspace. 👷📱 
 

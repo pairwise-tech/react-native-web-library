@@ -1,5 +1,5 @@
 {
-  "name": "pairwise-react-native-web-library",
+  "name": "react-native-web-library",
   "description": "A bundled version of react-native-web ready to be used in the Pairwise Workspace!",
   "version": "1.0.0",
   "main": "src/main.js",
