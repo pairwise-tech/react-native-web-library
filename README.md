@@ -1,6 +1,6 @@
-# Pairwise React Native Web Library 🔥
+# Pairwise React Native Web Library
 
-A bundled version of `react-native-web` ready to roll in the Pairwise Workspace.
+A bundled version of `react-native-web` ready to roll in the Pairwise Workspace. 👷📱 
 
 ```sh
 # Install everything
