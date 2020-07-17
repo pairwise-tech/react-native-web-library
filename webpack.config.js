@@ -2,6 +2,7 @@ const path = require('path');
 
 module.exports = {
   entry: './src/main.ts',
+  devtool: 'inline-source-map',
   mode: "development",
   module: {
     rules: [
@@ -15,8 +16,8 @@ module.exports = {
   resolve: {
     extensions: [ '.tsx', '.ts', '.js' ],
     alias: {
-      react: path.resolve(__dirname, "src/libs/react.js"),
-      "react-dom": path.resolve(__dirname, "src/libs/react-dom.js")
+      "react": path.resolve(__dirname, "libs/react.js"),
+      "react-dom": path.resolve(__dirname, "libs/react-dom.js")
     }
   },
   output: {

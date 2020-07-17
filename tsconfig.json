@@ -8,6 +8,6 @@
     "jsx": "react",
     "allowJs": true
   },
-  "include": ["src"],
+  "include": ["src", "libs"],
   "exclude": ["node_modules", "dist"]
 }
