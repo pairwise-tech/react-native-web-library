@@ -28,9 +28,6 @@ lerna-debug.log*
 **/.cache
 .DS_Store
 
-# Build folders
-dist
-
 # Environment
 docker
 .env
