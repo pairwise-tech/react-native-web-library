@@ -1,0 +1,39 @@
+# Project dependencies
+.cache
+.idea
+node_modules
+
+# Log output
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Build directory
+/public
+.DS_Store
+
+# Monorepo files
+**/.cache
+.DS_Store
+
+# Build folders
+dist
+
+# Environment
+docker
+.env
+
+# Misc backup files
+*.bak

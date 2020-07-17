@@ -1,0 +1,19 @@
+{
+  "name": "pairwise-react-native-web-library",
+  "description": "A bundled version of react-native-web ready to be used in the Pairwise Workspace!",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "private": true,
+  "scripts": {
+    "tsc": "tsc",
+    "build": "webpack",
+    "serve": "serve -s dist"
+  },
+  "dependencies": {
+    "react-native-web": "0.13.3",
+    "ts-loader": "^8.0.1",
+    "typescript": "^3.9.7",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
